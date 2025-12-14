@@ -48,7 +48,7 @@ const PORTFOLIO_DATA = {
       title: "MedHistory",
       description: "A medical history and appointment platform with role-based access, digital report cards, appointment booking, doctor search, and OTP-verified report updates.",
       tags: ["React", "Tailwind CSS", "TypeScript", "Node.js", "Express", "MongoDB"],
-      links: { demo: "#", code: "https://github.com/Puspak29/Medi-Frontend" },
+      links: { demo: "https://medhistory.vercel.app/", code: "https://github.com/Puspak29/Medi-Frontend" },
       color: "from-blue-500 to-cyan-400"
     },
     {
