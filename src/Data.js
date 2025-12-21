@@ -29,17 +29,10 @@ const PORTFOLIO_DATA = {
   experience: [
     {
       id: 1,
-      role: "Frontend Engineering Intern",
-      company: "TechStart Inc.",
-      duration: "Summer 2024",
-      description: "Optimized main dashboard performance by 40% using React Memo and lazy loading. Collaborated with designers to implement a new design system."
-    },
-    {
-      id: 2,
-      role: "CS Teaching Assistant",
-      company: "University Dept of CS",
-      duration: "Fall 2023 - Present",
-      description: "Mentoring 50+ students in Data Structures & Algorithms. Conducting weekly code reviews and lab sessions."
+      role: "R&D Intern",
+      company: "IEDC, UEM Kolkata",
+      duration: "5/2025 – 7/2025",
+      description: "Contributed to developing a data-driven stock forecasting web application. Ensuring secure, privacy-aware, and reliable functionality."
     }
   ],
   projects: [
