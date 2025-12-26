@@ -1,4 +1,4 @@
-import resumePdf from "./assets/PuspakSamanta.pdf";
+import resumePdf from "./assets/Puspak_Samanta_Resume.pdf";
 
 const PORTFOLIO_DATA = {
   personal: {
