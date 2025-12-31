@@ -12,7 +12,7 @@ const PORTFOLIO_DATA = {
     university: "University of Engineering and Management, Kolkata",
     graduation: "Expected July 2026",
     resumePdfUrl: resumePdf,
-    // NEW: Data for the decorative code block in the Hero section
+    
     heroCodeLines: [
       { key: "name", value: `'Puspak Samanta'`, color: "text-green-400" },
       { key: "skills", value: `['React', 'Node', 'DSA', 'C/C++']`, color: "text-yellow-300" },
@@ -54,10 +54,10 @@ const PORTFOLIO_DATA = {
     },
     {
       id: 3,
-      title: "Task Manager",
-      description: "A task management app built with React, Tailwind CSS, and Firestore. Features include user authentication, task CRUD operations, local storage support, and completion tracking.",
+      title: "TaskFlow",
+      description: "A task management web application designed to help you plan, organize and track your tasks efficiently. With features like subtasks, real-time updates, and visualizations.",
       tags: ["React", "Tailwind CSS", "Firestore", "Local Storage"],
-      links: { demo: "https://puspak29.github.io/todo_app/", code: "https://github.com/Puspak29/todo_app" },
+      links: { demo: "https://taskflow-eight-brown.vercel.app/", code: "https://github.com/Puspak29/todo_app" },
       color: "from-emerald-500 to-green-400"
     }
   ]
